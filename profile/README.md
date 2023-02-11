@@ -1,4 +1,4 @@
-# Black Suits
+# Leave No Trace
 
 This organization aims to share information and proof-of-concepts related to cyber security
 in order to find and eliminate old as well as current day risks and vulnerabilities.
@@ -6,7 +6,7 @@ in order to find and eliminate old as well as current day risks and vulnerabilit
 ## Contributing
 
 Unfortunately, for the time being, membership is only possible after an official invitation.
-However, users that are not part of Black Suits can crate issues should they want to contribute.
+However, users that are not part of Leave No Trace can crate issues should they want to contribute.
 
 ## Disclaimer
 
